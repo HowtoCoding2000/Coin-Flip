@@ -15,6 +15,7 @@ public class CoinFlip {
 		Scanner userInput = new Scanner(System.in);
 		String name= userInput.nextLine();
 		System.out.println("Hi" +" " +name + "!");
+		//nice greeting method
 	}
 	public static void flipCoin() 
 	{
